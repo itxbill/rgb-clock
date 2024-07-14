@@ -15,11 +15,11 @@ To use this project, simply clone the repository and open the `index.html` file 
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/itxbill/clock-with-javascript.git
+    git clone https://github.com/itxbill/rgb-clock
     ```
 2. Navigate to the project directory:
     ```sh
-    cd clock-with-javascript
+    cd rgb-clock
     ```
 3. Open the `index.html` file in your browser.
 
