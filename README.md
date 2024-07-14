@@ -29,6 +29,7 @@ To use this project, simply clone the repository and open the `index.html` file 
 * `time.js` - The JavaScript file that updates the time every second.
 
 ---
+![Clock Image](screenshot.png)
 
 ## Code Explanation
 
