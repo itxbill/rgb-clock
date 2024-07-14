@@ -1,4 +1,4 @@
-# rgb-clock
+# RGB Digital Clock
 An RGB digital clock displaying the current time with an animated design, built using HTML, CSS, and JavaScript.
 
 ## Clock with JavaScript
